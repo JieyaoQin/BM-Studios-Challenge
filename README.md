@@ -1,3 +1,8 @@
+# BM-Studios-Challenge
+Note: Please use `yarn` instead of `npm` to run the app. <br>
+<br>
+I found it difficult to deal with the license problem when I tried to create a React Native app with `react-native init` command. Then I swithed to `create-react-native-app` which I've been using. After that, the coding part was not very difficult. There is a document about the usage of `react-navigation` library, which allows the usage of a StackNavigator to navigate two pages stored on a stack. By putting a page on top of the stack, it navigates to a new page. By removing a page from the stack, it navigates back to the initial page. Some small tools are used as part of the navigation, like button and view. The style and layout part is easy since I have similar experiences in CSS. I've learned a lot about the React Native dev environment set up and the navigation between screens in such an app.
+<br>
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
